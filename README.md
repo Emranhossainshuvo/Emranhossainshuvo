@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## I'm Shuvo 
-## Full Stack Developer 👨‍💻
+## MERN Stack Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-shuvo-blue)](https://www.linkedin.com/in/md-emran-hossain-undefined-a516a028a/)
 [![](https://img.shields.io/badge/Gmail-shuvoorba2-red)](shuvoorba28@gmail.com)
