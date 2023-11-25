@@ -26,9 +26,9 @@ I'm a passionate MERN stack developer, enthusiastic about building robust and sc
 
 Here are a few projects I'm proud of:
 
-1. **[E-commerce Platform](link-to-project-1):** Developed a full-fledged e-commerce platform using React, Node.js, and MongoDB. Integrated payment gateways for seamless transactions.
+1. **[E-commerce Platform]([link-to-project-1](https://bistro-boss-1c45d.web.app/)):** Developed a full-fledged e-commerce platform using React, Node.js, and MongoDB. Integrated payment gateways for seamless transactions.
 
-2. **[Task Management App](link-to-project-2):** Created a task management application with a user-friendly interface using React for the frontend and Node.js for the backend.
+2. **[Task Management App]([link-to-project-2](https://car-repair-practice.web.app/)):** Created a task management application with a user-friendly interface using React for the frontend and Node.js for the backend.
 
 3. **[Blog Engine](link-to-project-3):** Designed and implemented a blog engine using the MERN stack, allowing users to create, edit, and delete blog posts.
 
@@ -38,7 +38,6 @@ I am always eager to learn and stay up-to-date with the latest technologies. Cur
 
 ## 💬 Let's Connect
 
-I'm open to collaboration and always looking to connect with fellow developers. Feel free to reach out to me on [LinkedIn](your-linkedin-profile) or [Twitter](your-twitter-profile).
+I'm open to collaboration and always looking to connect with fellow developers. Feel free to reach out to me on [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/shuvo-undefined-a53453260/)) or [Twitter]([your-twitter-profile](https://twitter.com/Shuvo0031770590)https://twitter.com/Shuvo0031770590).
 
-Happy coding! 🚀
  
