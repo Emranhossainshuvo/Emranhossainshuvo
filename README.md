@@ -10,11 +10,11 @@ I am a results-driven MERN stack developer with a passion for crafting robust an
 - **Database:** MongoDB, Mongoose
 - **Version Control:** Git, GitHub
 - **Tools:** npm, RESTful APIs
-
+ 
 ## 🚀 Projects
-
+ 
 Check out some projects I'm proud of:
-
+ 
 1. **[E-commerce Platform](https://bistro-boss-1c45d.web.app/):**
    Developed a comprehensive e-commerce platform with React, Node.js, and MongoDB. Integrated seamless payment gateways for a smooth transaction experience.
 
