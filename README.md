@@ -5,7 +5,7 @@ I am a results-driven MERN stack developer with a passion for crafting robust an
 ## 🔧 Skills
 
 - **Languages:** JavaScript (ES6+), HTML, CSS
-- **Frontend:** React, HTML5, CSS3, Bootstrap, TailwindCSS
+- **Frontend:** React, React-router, HTML5, CSS3, Bootstrap, TailwindCSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, Mongoose
 - **Version Control:** Git, GitHub
@@ -30,4 +30,4 @@ I'm dedicated to continuous learning and staying abreast of the latest technolog
 
 ## 💬 Let's Connect
 
-I'm open to collaborations and always eager to connect with fellow developers. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shuvo-undefined-a53453260/) or [Twitter](https://twitter.com/Shuvo0031770590).
+I'm  to collaborations and always eager to connect with fellow developers. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shuvo-undefined-a53453260/) or [Twitter](https://twitter.com/Shuvo0031770590).
