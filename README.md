@@ -24,7 +24,7 @@ Check out some projects I'm proud of:
 3. **[Blog Engine](link-to-project-3):**
    Designed and implemented a blog engine using the MERN stack, allowing users to create, edit, and delete blog posts.
 
-## 🌱 Learning
+## 🌱 Learning 
 
 I'm dedicated to continuous learning and staying abreast of the latest technologies. Currently, I'm exploring serverless architecture and GraphQL to enhance my skill set.
 
