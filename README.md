@@ -35,7 +35,7 @@ I'm dedicated to continuous learning and staying abreast of the latest technolog
 
 ## 💬 Let's Connect
 
-I'm open to collaborations and always eager to connect with fellow developers. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/md-emran-hossain-shuvo-0711802a4/) or [Twitter](https://twitter.com/Shuvo0031770590).
+I'm open to collaborations and always eager to connect with fellow developers. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/md-emran-hossain-shuvo-0711802a4/) or [Twitter](https://twitter.com/Shuvo0031770590) or [Email](emran.shuvo.dev@gmail.com) 
 
 
 ## Technology I know
