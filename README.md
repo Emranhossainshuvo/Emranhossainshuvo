@@ -33,8 +33,8 @@ Check out some projects I'm proud of:
 
 I'm dedicated to continuous learning and staying abreast of the latest technologies. Currently, I'm exploring serverless architecture and GraphQL to enhance my skill set.
 
-## lol
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emranhossainshuvo&theme=ayu_mirage&utcOffset=8)
+## My most used languages
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emranhossainshuvo&theme=ayu_mirage)
 
 ## 💬 Let's Connect
 
