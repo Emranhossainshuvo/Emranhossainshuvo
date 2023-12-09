@@ -33,6 +33,9 @@ Check out some projects I'm proud of:
 
 I'm dedicated to continuous learning and staying abreast of the latest technologies. Currently, I'm exploring serverless architecture and GraphQL to enhance my skill set.
 
+## lol
+![GitHub Trends](https://api.githubtrends.io/user/svg/Emranhossainshuvo/langs?time_range=one_year&theme=synthwaves)
+
 ## 💬 Let's Connect
 
 I'm open to collaborations and always eager to connect with fellow developers. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/md-emran-hossain-shuvo-0711802a4/) or [Twitter](https://twitter.com/Shuvo0031770590).
