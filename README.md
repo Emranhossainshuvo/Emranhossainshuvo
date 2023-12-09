@@ -34,7 +34,7 @@ Check out some projects I'm proud of:
 I'm dedicated to continuous learning and staying abreast of the latest technologies. Currently, I'm exploring serverless architecture and GraphQL to enhance my skill set.
 
 ## lol
-![GitHub Trends](https://api.githubtrends.io/user/svg/Emranhossainshuvo/langs?time_range=one_year&theme=synthwaves)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=default)
 
 ## 💬 Let's Connect
 
