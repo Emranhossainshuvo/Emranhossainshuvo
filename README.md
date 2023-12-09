@@ -12,6 +12,9 @@ I am a results-driven web developer with a passion for crafting robust and scala
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emranhossainshuvo&theme=apprentice&hide_border=true&stroke=443D3D)](https://git.io/streak-stats)
 
 
+https://api.githubtrends.io/user/svg/Emranhossainshuvo/langs?time_range=one_year&theme=synthwaves
+
+
 ## 🚀 Projects
  
 Check out some projects I'm proud of:
