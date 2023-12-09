@@ -4,6 +4,11 @@ I am a results-driven MERN stack developer with a passion for crafting robust an
 
 ![Cover photo that says about me](https://raw.githubusercontent.com/Emranhossainshuvo/Emranhossainshuvo/main/asset/%2B8801620366102.png)
 
+
+
+## My  stats 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emranhossainshuvo&theme=apprentice&hide_border=true&stroke=443D3D)](https://git.io/streak-stats)
+
 ## 🔧 Skills 
   
 - **Languages:** JavaScript (ES6+), HTML, CSS
@@ -13,9 +18,6 @@ I am a results-driven MERN stack developer with a passion for crafting robust an
 - **Version Control:** Git, GitHub
 - **Tools:** npm, RESTful APIs
 
-
-## My  stats 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emranhossainshuvo&theme=apprentice&hide_border=true&stroke=443D3D)](https://git.io/streak-stats)
  
 ## 🚀 Projects
  
