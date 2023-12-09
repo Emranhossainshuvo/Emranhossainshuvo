@@ -2,6 +2,8 @@
 
 I am a results-driven MERN stack developer with a passion for crafting robust and scalable web applications. My expertise lies in the dynamic MERN (MongoDB, Express.js, React, Node.js) stack, where I excel in creating engaging and interactive user experiences.
 
+![Cover photo that says about me](path/to/your_image.jpg)
+
 ## 🔧 Skills 
   
 - **Languages:** JavaScript (ES6+), HTML, CSS
@@ -14,7 +16,7 @@ I am a results-driven MERN stack developer with a passion for crafting robust an
 
 ## My  stats 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emranhossainshuvo&theme=cobalt)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emranhossainshuvo&theme=cobalt)](https://git.io/streak-stats)  
  
 ## 🚀 Projects
  
