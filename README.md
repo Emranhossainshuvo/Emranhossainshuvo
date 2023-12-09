@@ -10,6 +10,11 @@ I am a results-driven MERN stack developer with a passion for crafting robust an
 - **Database:** MongoDB, Mongoose
 - **Version Control:** Git, GitHub
 - **Tools:** npm, RESTful APIs
+
+
+## My  stats 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emranhossainshuvo&theme=cobalt)](https://git.io/streak-stats)
  
 ## 🚀 Projects
  
@@ -32,6 +37,8 @@ I'm dedicated to continuous learning and staying abreast of the latest technolog
 
 I'm open to collaborations and always eager to connect with fellow developers. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/md-emran-hossain-shuvo-0711802a4/) or [Twitter](https://twitter.com/Shuvo0031770590).
 
+
+## Technology I know
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,react,vscode,css,express)](https://skillicons.dev)
