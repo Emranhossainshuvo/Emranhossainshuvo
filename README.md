@@ -11,7 +11,6 @@ I am a results-driven web developer with a passion for crafting robust and scala
 ## My  stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emranhossainshuvo&theme=apprentice&hide_border=true&stroke=443D3D)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emranhossainshuvo&theme=ayu_mirage)
 
 ## 🚀 Projects
  
@@ -25,6 +24,10 @@ Check out some projects I'm proud of:
 
 3. **[Blog Engine](link-to-project-3):**
    Designed and implemented a blog engine using the MERN stack, allowing users to create, edit, and delete blog posts.
+
+## My contributions: 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emranhossainshuvo&theme=ayu_mirage)
 
 ## 🌱 Learning 
 
