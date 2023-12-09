@@ -11,16 +11,8 @@ I am a results-driven web developer with a passion for crafting robust and scala
 ## My  stats 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emranhossainshuvo&theme=apprentice&hide_border=true&stroke=443D3D)](https://git.io/streak-stats)
 
-## 🔧 Skills 
-  
-- **Languages:** JavaScript (ES6+), HTML, CSS
-- **Frontend:** React, React-router, HTML5, CSS3, Bootstrap, TailwindCSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, Mongoose
-- **Version Control:** Git, GitHub
-- **Tools:** npm, RESTful APIs
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
- 
 ## 🚀 Projects
  
 Check out some projects I'm proud of:
