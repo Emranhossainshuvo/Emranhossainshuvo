@@ -16,10 +16,10 @@ I am a results-driven web developer with a passion for crafting robust and scala
  
 Check out some projects I'm proud of:
  
-1. **[E-commerce Platform](https://bistro-boss-1c45d.web.app/):**
+1. **[Online Restaurent Application](https://bistro-boss-1c45d.web.app/):**
    Developed a comprehensive e-commerce Restaurent application with React, Node.js, and MongoDB. Integrated seamless payment gateways for a smooth transaction experience.
 
-2. **[Task Management App](https://car-repair-practice.web.app/):**
+2. **[Business Application](https://car-repair-practice.web.app/):**
    Created an intuitive Business management application with a user-friendly interface using React for the frontend and Node.js for the backend.
 
 ## My contributions: 
