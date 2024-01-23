@@ -4,22 +4,23 @@
 
 # I'm Shuvo! 👋
 
-I am a results-driven web developer with a passion for crafting robust and scalable web applications. My expertise lies in various technologies such as MongoDB, Express.js, React, and Node.js, where I excel in creating engaging and interactive user experiences.
+I am a curious web developer and digital explorer with a passion for crafting robust and scalable web applications. My expertise lies in various technologies such as MongoDB, Express.js, React, and Node.js, where I excel in creating engaging and interactive user experiences. I love to explore new things as well as new technologies also I can adapt to new things quickly as well as new technologies and new situations. 
 
 
 ## My  stats 
+Basiclly I like to stay consistent with my learning. Sometimes I find myself handling too much pressure or work but still I love to stay consistent. 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Emranhossainshuvo&theme=apprentice&hide_border=true&stroke=443D3D)](https://git.io/streak-stats)
 
 
 ## 🚀 Projects
  
-Check out some projects I'm proud of:
+In 2023 I developed around 30+ projects among them 10+ projects are full stack. here are some of my projects:
  
 1. **[Online Restaurent Application](https://bistro-boss-1c45d.web.app/):**
-   Developed a comprehensive e-commerce Restaurent application with React, Node.js, and MongoDB. Integrated seamless payment gateways for a smooth transaction experience.
+   Developed a comprehensive e-commerce Restaurant application with React, Node.js, and MongoDB. Integrated seamless payment gateways for a smooth transaction experience.
 
 2. **[Business Application](https://car-repair-practice.web.app/):**
-   Created an intuitive Business management application with a user-friendly interface using React for the frontend and Node.js for the backend.
+   Created an intuitive Business management application with a user-friendly interface using React for the front end and Node.js for the back end.
 
 ## My contributions: 
 
