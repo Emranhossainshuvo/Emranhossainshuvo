@@ -43,4 +43,4 @@ I'm open to collaborations and always eager to connect with fellow developers. F
 ## Technology I know
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,react,vscode,css,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,react,firebase,git,linux,mongodb,nextjs,netlify,nodejs,vercel,vite,vscode,css,express)](https://skillicons.dev)
